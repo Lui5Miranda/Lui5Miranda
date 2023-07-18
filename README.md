@@ -1,9 +1,8 @@
 <h1 align="center">
-  🤘🏼 Hi, I am Luís 🤘🏼
+  <p>🤘🏼 Hi, I am Luís 🤘🏼</p>
 </h1>
-<br>
 <h2 align="center">
-  📚 I'm current learning 📚
+  <p>📚 I'm current learning 📚</p>
 </h2>
 <br>
 <p align="center">
@@ -12,6 +11,6 @@
   </a>
 </p>
 <br>
-<div align="center">
+<p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui5-Fernando&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</p>
