@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 18 anos | Estudante do 3º ano do ensino médio
+- 🎓 18 anos 
 - 📚 Estudando: **React**, **TypeScript** e **Python**
 - 💬 Aberto a colaborações e networking
 
