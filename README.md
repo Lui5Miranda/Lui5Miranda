@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+sou+o+Luís!;React%2C+JavaScript%2C+Python+%E2%9D%A4%EF%B8%8F;Apaixonado+por+tecnologia+e+aprendizado!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+sou+o+Luís!;React%2C+JavaScript%2C+Python+%E2%9D%A4%EF%B8%8F;Apaixonado+por+tecnologia+e+aprendizado!" alt="Typing animation" />
 </p>
 
 ---
