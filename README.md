@@ -45,7 +45,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Onde me encontrar 
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/luis-miranda-dev" target="_blank">
