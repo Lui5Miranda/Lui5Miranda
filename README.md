@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">z
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,github,git" alt="Tech stack" />
   </a>
 </p>
@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lui5Miranda&theme=react&hide_border=true" alt="Top Languages"/>
+  <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lui5Miranda&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui5Miranda&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Streak Stats"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lui5Miranda&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Streak Stats"/>
 </p>
 
 ---
